@@ -2,8 +2,6 @@
 
 A simple Tic Tac Toe game implemented in Swift using SwiftUI.
 
-![Tic Tac Toe Screenshot](screenshot.png)
-
 ## Table of Contents
 
 - [Features](#features)
